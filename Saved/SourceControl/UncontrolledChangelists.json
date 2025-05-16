@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/UnrealProjects/Game25D/Content/Maps/PlayTestArena.umap",
 				"E:/UnrealProjects/Game25D/Content/Characters/VillagerA/Texture/T_VillagerA.uasset",
 				"E:/UnrealProjects/Game25D/Content/Characters/VillagerA/PB_Villager_Walk_S.uasset",
 				"E:/UnrealProjects/Game25D/Content/Characters/VillagerA/FB_Villager_Walk_W.uasset",
@@ -106,6 +105,9 @@
 				"E:/UnrealProjects/Game25D/Content/Characters/VillagerB/AnimSequences/Dead.uasset",
 				"E:/UnrealProjects/Game25D/Content/Characters/VillagerB/AnimSequences/Celebrating.uasset",
 				"E:/UnrealProjects/Game25D/Content/Maps/L_NewWorld_P.umap",
+				"E:/UnrealProjects/Game25D/Content/MaterialLibrary/Landscape/M_Landscape.uasset",
+				"E:/UnrealProjects/Game25D/Content/MaterialLibrary/Landscape/MI_Landscape.uasset",
+				"E:/UnrealProjects/Game25D/Content/Maps/PlayTestArena.umap",
 				"E:/UnrealProjects/Game25D/Content/Characters/VillagerA/SpriteSheet.uasset",
 				"E:/UnrealProjects/Game25D/Content/Characters/VillagerA/T_VillagerA_Sprite.uasset",
 				"E:/UnrealProjects/Game25D/Content/Characters/VillagerA/T_VillagerA.uasset",
